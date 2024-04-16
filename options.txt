@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MC Connected CTM v1.2.3-1.18.2.zip","quark:emote_resources","file/Glass Panes CTM Fix v1.0-1.18.zip"]

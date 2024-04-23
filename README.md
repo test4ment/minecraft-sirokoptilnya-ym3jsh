@@ -30,3 +30,4 @@ DistantHorizons - огромная дистанция прорисовки, пл
 * oculus-mc1
 * reforgium
 * rubidium_extras
+* NekosEnchantedBooks
